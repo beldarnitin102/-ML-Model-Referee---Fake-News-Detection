@@ -18,6 +18,18 @@ Choosing the right ML model for fake news detection is hard:
 - ✅ Explains reasoning behind recommendations
 - ✅ Helps you make informed decisions
 
+## 🤖 AI Assistance Used
+
+This project was developed with the help of **Kiro AI (AWS)** as a decision-support tool.
+
+Kiro was used to:
+- Compare multiple ML models (Logistic Regression, Naive Bayes, BERT)
+- Analyze trade-offs between accuracy, speed, and explainability
+- Improve model selection strategy for fake news detection
+
+Kiro acted as an AI referee rather than a single-answer generator.
+
+
 ## 🚀 HOW TO RUN THE PROJECT
 
 ### 🌐 **MAIN DEMO** (For Hackathon Judges)
